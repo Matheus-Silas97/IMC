@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">IMC</string>
+    <string name="select_sex">Selecinar o sexo</string>
+    <string name="woman">Feminino</string>
+    <string name="man">Masculino</string>
     <string name="weight">Digite seu peso</string>
     <string name="height">Digite sua altura</string>
     <string name="calculate">Calcular</string>
